@@ -1,7 +1,11 @@
-<div align="center">
+# Hi there, I'm wanyanjie1 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wanyanjie1&theme=tokyonight)
+這是我的 C 語言學習與練習紀錄。
+This repository contains my practice codes for learning C programming.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanyanjie1&layout=compact&theme=tokyonight)
+## 📊 語言統計 (Languages)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanyanjie1&layout=compact&theme=tokyonight&t=2)
+
+## 📁 練習專案
+- **C-practice**: 基礎語法與演算法練習
