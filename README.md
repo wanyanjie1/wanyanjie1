@@ -5,7 +5,7 @@ This repository contains my practice codes for learning C programming.
 
 ## 📊 語言統計 (Languages)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanyanjie1&layout=compact&theme=tokyonight&t=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanyanjie1&hide=html&theme=tokyonight)
 
 ## 📁 練習專案
 - **C-practice**: 基礎語法與演算法練習
